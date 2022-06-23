@@ -1,1 +1,1 @@
-vagrant testing
+This file is mandatory in projects
